@@ -26,7 +26,9 @@ Elisse has sent you a few reports that might be useful and shared the Minto Pyra
 
 Drag and drop to match up the terms with their description!
 
-<h3><b>The Asnwers of Task 2 Are as follows: Pls drag and drop accordingly and the asnwers may be wrong copy at owner's Risk</b></h3>
+<h3><b>The Asnwers of Task 2 Are as follows: 
+  
+<br>Pls drag and drop accordingly and the asnwers may be wrong copy at owner's Risk</b></h3>
 
 Qs The percentage of a market accounted for by a specific entity. 
 <br>
