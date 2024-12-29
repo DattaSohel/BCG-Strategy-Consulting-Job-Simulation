@@ -24,15 +24,19 @@ Elisse has sent you a few reports that might be useful and shared the Minto Pyra
 Drag and drop to match up the terms with their description!
 
 Qs The percentage of a market accounted for by a specific entity. 
+<br>
 Ans Market SHare
 
 Qs Shows the relationship between the market value of a company or its equity and some fundamental financial metric (e.g., earnings). The point of a ____ is to show the price you are paying for some stream of earnings, revenue, or cash flow (or other financial metric).
+<br>
 Ans Valuation Ratios
 
 Qs The revenue generated from a company's primary business activities. For example, a retailer produces revenue through merchandise sales, and a physician derives revenue from the medical services he/she provides.
+<br>
 Ans Operating Revenue
 
 Qs A measure of a company's operating profit as a percentage of its revenue. Knowing the ____ ____ allows for a comparison of one company's real performance to others in its industry
+<br>
 Ans EBITDA MArgins
 
 Qs An expense a business incurs through its normal business operations. Often abbreviated as OPEX, operating expenses include rent, equipment, inventory costs, marketing, payroll, insurance, step costs, and funds allocated for research and development
