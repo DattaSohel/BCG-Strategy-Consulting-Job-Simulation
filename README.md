@@ -18,6 +18,8 @@ Look for analyst reports on the impact on revenue and profits for the telecom co
 
 Elisse has sent you a few reports that might be useful and shared the Minto Pyramid Principle to help you structure your response. 
 
+<b>The Answer of Task 1 Is in a Word File Named as Task 1 Answer<b>
+
 <h2><b>Task 2:</b></h2>
 <hr>
 
