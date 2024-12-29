@@ -131,3 +131,24 @@ Comparable company analysis is the process of comparing companies based on simil
 <b>Valuation ratios</b>
 A valuation ratio shows the relationship between the market value of a company or its equity and some fundamental financial metric (e.g., earnings). The point of a valuation ratio is to show the price you are paying for some stream of earnings, revenue, or cash flow (or other financial metric).
 <br>
+
+<h3><b>Task 3: </b></h3>
+<br>
+<hr>
+
+Elisse hands us a partially completed Excel model and some financial statements from the two companies, and asks us to complete the analysis. 
+
+Within the workbook, Elisse has also added in a guiding sheet for us to follow. If we find ourself stuck, we may want to refer to the sheet for guidance on how to complete the tasks. There is also a list of the technical terms you learned in the previous exercise - in case we need to remind ourself. 
+
+Here is our task:
+
+<b>Task A:</b>
+<br>
+Analyse the data from Company A and Company B to determine the impact of leasing handsets on financial performance. State and apply your own assumptions, and identify the metrics we would use to perform a financial forecast for Company X.
+
+<b>Task B</b>
+<br>
+Apply the metrics and performance impacts you have identified to forecast the upside in terms of the key metrics for Company X. To do this, first assume that Company X will grow at industry average, then assume it will grow at the same rate as Company A, which introduced leasing. Comparing the two forecasts will allows us to calculate the net impact of leasing.
+
+The Files of the The Task is in the Repository 
+
