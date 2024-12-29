@@ -9,3 +9,12 @@ In this job simulation, we will gain enviable insight into what it’s like to s
 
 After finishing each module, we’ll be provided with real work sample answers from our leaders and you can see how top-tier consultants and our designers would have tackled each task, so that you can learn from their approach.
 
+**Task 1: **
+<hr>
+
+We first task today is to do some research and identify markets in which handset leasing has already been introduced.
+
+Look for analyst reports on the impact on revenue and profits for the telecom companies operating in those markets, and summarise your findings in an email to Elisse, stating whether this is an attractive business model for the team to explore further.
+
+Elisse has sent you a few reports that might be useful and shared the Minto Pyramid Principle to help you structure your response. 
+
