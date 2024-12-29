@@ -9,7 +9,7 @@ In this job simulation, we will gain enviable insight into what it’s like to s
 
 After finishing each module, we’ll be provided with real work sample answers from our leaders and you can see how top-tier consultants and our designers would have tackled each task, so that you can learn from their approach.
 
-<h2><b>**Task 1:**</b></h2>
+<h2><b>Task 1:</b></h2>
 <hr>
 
 We first task today is to do some research and identify markets in which handset leasing has already been introduced.
