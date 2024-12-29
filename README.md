@@ -28,7 +28,7 @@ Drag and drop to match up the terms with their description!
 
 <h3><b>The Asnwers of Task 2 Are as follows: 
   
-<br>Pls drag and drop accordingly and the asnwers may be wrong copy at owner's Risk</b></h3>
+<br>Pls drag and drop accordingly and the asnwers may be wrong copy at own Risk</b></h3>
 
 Qs The percentage of a market accounted for by a specific entity. 
 <br>
