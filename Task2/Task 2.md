@@ -1,10 +1,10 @@
-Task 2:
+<h2><b>Task 2:</b></h2>
 
-Drag and drop to match up the terms with their description!
+<h3><b>Drag and drop to match up the terms with their description!</b></h2>
 
-The Asnwers of Task 2 Are as follows:
+<h3><b>The Asnwers of Task 2 Are as follows:</b></h2>
 
-Pls drag and drop accordingly and the asnwers may be wrong copy at own Risk
+<h3><b>Pls drag and drop accordingly and the asnwers may be wrong copy at own Risk<h3><b>
 
 Qs The percentage of a market accounted for by a specific entity.
 Ans Market SHare
