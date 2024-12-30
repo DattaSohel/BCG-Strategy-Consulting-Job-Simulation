@@ -4,7 +4,7 @@
 <br>
 
 <b>Operating revenue:</b> Operating revenue is the revenue generated from a company's primary business activities. For example, a retailer produces revenue through merchandise sales, and a physician derives revenue from the medical services he/she provides.
-<br>
+
 <b>Operating expense:</b> An operating expense is an expense a business incurs through its normal business operations. Often abbreviated as OPEX, operating expenses include rent, equipment, inventory costs, marketing, payroll, insurance, step costs, and funds allocated for research and development
 <br>
 <b>EBITDA:</b> A company's Earnings Before Interest, Taxes, Depreciation, and Amortization is an accounting measure calculated using a company's earnings, before interest expenses, taxes, depreciation, and amortization are subtracted, as a proxy for a company's current operating profitability.
