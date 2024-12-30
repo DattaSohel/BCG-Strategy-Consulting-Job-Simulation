@@ -42,6 +42,8 @@ Ans EBITDA
 Qs A calculation made internally by a company to show what it believes is a more accurate reflection of how much money it generates. The number focuses on regular accounting cycle events and often excludes one-time charges or infrequent occurrences.
 Ans Underlying Profit
 
+
+
 Qs Refers to the reduction in the cost of the tangible fixed assets over its lifespan which is proportionate to the use of the asset in that specific year.
 Ans Depreciation
 
