@@ -5,9 +5,9 @@ There are two main operators who form an effective duopoly. Company A launched h
 
 This allows us to isolate the impact of handset leasing on profitability.
 
-Elisse hands you a partially completed Excel model and some financial statements from the two companies, and asks us to complete the analysis. 
+Elisse hands us a partially completed Excel model and some financial statements from the two companies, and asks us to complete the analysis. 
 
-Within the workbook, Elisse has also added in a guiding sheet for you to follow. If you find yourself stuck, you may want to refer to the sheet for guidance on how to complete the tasks. 
+Within the workbook, Elisse has also added in a guiding sheet for you to follow. If you find yourself stuck, we may want to refer to the sheet for guidance on how to complete the tasks. 
 
 There is also a list of the technical terms you learned in the previous exercise - in case we need to remind ourselves. 
 
