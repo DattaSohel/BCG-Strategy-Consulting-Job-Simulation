@@ -11,7 +11,7 @@ Within the workbook, Elisse has also added in a guiding sheet for you to follow.
 
 There is also a list of the technical terms you learned in the previous exercise - in case we need to remind ourselves. 
 
-<h3><b>Here is your task:</b></h3>
+<h3><b>Here is our task:</b></h3>
 
 <h3><b>Part A:</b></h3>
 
